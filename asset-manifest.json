@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/data-react/static/css/main.14dd7a7e.css",
+    "main.js": "/data-react/static/js/main.74fb348e.js",
+    "index.html": "/data-react/index.html",
+    "main.14dd7a7e.css.map": "/data-react/static/css/main.14dd7a7e.css.map",
+    "main.74fb348e.js.map": "/data-react/static/js/main.74fb348e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14dd7a7e.css",
+    "static/js/main.74fb348e.js"
+  ]
+}
